@@ -1,0 +1,85 @@
+.section2_container-title{
+	padding:98px 0;
+	width: 534px;
+	
+}
+
+.section2_container-title h2{
+	color: #002e5b;
+font-family: Montserrat;
+font-size: 31px;
+font-weight: 700;
+line-height: 31px;
+text-transform: uppercase;
+padding-bottom: 27px;
+}
+
+.section2_container-title p{
+	color: #333333;
+font-family: "Segoe UI Emoji";
+font-size: 16px;
+font-weight: 400;
+line-height: 25px;
+padding-top:24px;
+}
+
+.section2_container-title span{
+	color: #666666;
+font-family: "Segoe UI Emoji";
+font-size: 21px;
+font-weight: 400;
+line-height: 25px;
+
+}
+
+.section2_container-title a{
+	position:relative;
+	top:35px;
+	text-decoration: none;
+	color: #002e5b;
+font-family: Montserrat;
+font-size: 16px;
+font-weight: 700;
+text-transform: uppercase;
+}
+
+.span_title{
+	display: block;
+	width: 113px;
+	height: 2px;
+background-color: #002e5b;
+}
+
+.section2_container-title a span{
+	margin-top: 3px;
+}
+
+.tri{
+	max-width: 1170px;
+	width: 100%;
+	margin:0 auto;
+	position:relative;
+}
+
+.pervii{
+	/* Style for "yellow" */
+width: 270px;
+height: 524px;
+background-color: #fde428;
+opacity: 0.98;
+float: right;
+position:absolute;
+right: 113px;
+bottom:-16px;
+}
+
+.dva{
+	/* Style for "Rounded Re" */
+width: 499px;
+height: 326px;
+box-shadow: 0 3px 8px rgba(0, 0, 0, 0.3);
+background-color: #a1a1a1;
+position:absolute;
+right: 0px;
+bottom:80px;
+} 

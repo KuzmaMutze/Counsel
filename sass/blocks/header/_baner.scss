@@ -1,0 +1,45 @@
+.container_fix{
+	    display: flex;
+    justify-content: flex-end;
+
+}
+
+
+ .title_baner{
+	background-image: url(../img/ramka.png);
+	background-repeat: no-repeat;
+	width: 299px;
+	height: 378px;
+	position:absolute;
+	top:32%;
+	
+}
+
+.fix{
+	
+}
+
+.title_baner h1{
+	position:relative;
+	left: -224px;
+	top:  73px;
+	text-align: right;
+	color: #ffffff;
+	font-family: Montserrat;
+	font-size: 45px;
+	font-weight: 700;
+}
+
+.title_baner a{
+	position:relative;
+	top:93px;
+	left: -71px;
+	color: #fde428;
+	font-family: Montserrat;
+	font-size: 21px;
+	font-weight: 700;
+	line-height: 50.97px;
+	text-transform: uppercase;
+	text-decoration: none;
+	border-bottom: 2px solid #fde428;
+}

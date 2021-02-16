@@ -1,0 +1,31 @@
+.section4{
+	background-color: #002e5b;
+	height: 91px;
+}
+
+.title_button{
+	height: 91px;
+	display: flex;
+	align-items: center;
+	justify-content:space-between;
+	font-family: Montserrat;	
+}
+
+.title_button p{
+	color: #ffffff;
+font-family: Montserrat;
+font-size: 21px;
+font-weight: 400;
+}
+
+.title_button button{
+border-radius: 3px;
+background-color: #fde428;
+color: #002e5b;
+font-size: 16px;
+font-weight: 700;
+text-transform: uppercase;
+width: 161px;
+height: 44px;
+border:none;
+}

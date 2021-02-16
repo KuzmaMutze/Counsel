@@ -1,0 +1,10 @@
+@font-face{
+font-family: 'MyWebFont';
+src: url('../fonts/seguiemj.ttf');
+}
+
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,700&display=swap');
+
+p, span{
+	font-family: 'Montserrat', sans-serif;
+}

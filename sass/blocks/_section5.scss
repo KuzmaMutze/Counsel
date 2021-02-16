@@ -1,0 +1,49 @@
+.title_info{
+text-align: center;
+}
+
+.title_info h4{
+padding-top:98px;
+padding-bottom: 14px;
+color: #002e5b;
+font-family: Montserrat;
+font-size: 31px;
+font-weight: 700;
+}
+
+.title_info p{
+	padding-bottom:41px;
+	color: #666666;
+font-family: "Segoe UI Emoji";
+font-size: 21px;
+font-weight: 400;
+}
+
+.item-info{
+	display: flex;
+}
+
+.item{
+	
+	padding-right: 30px;
+}
+
+.item h5{
+	padding-top:36px;
+padding-bottom: 23px;
+color: #002e5b;
+font-family: Montserrat;
+font-size: 21px;
+font-weight: 700;
+
+text-transform: uppercase;
+}
+
+.item p{
+	padding-bottom: 98px;
+	color: #333333;
+font-family: "Segoe UI Emoji";
+font-size: 16px;
+font-weight: 400;
+line-height: 25px;
+}

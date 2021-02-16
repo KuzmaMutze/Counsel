@@ -1,0 +1,131 @@
+.title_section10{
+	text-align: center;
+}
+
+.title_section10 h1{
+color: #002e5b;
+font-family: Montserrat;
+font-size: 31px;
+font-weight: 700;
+line-height: 31px;
+text-transform: uppercase;
+padding: 101px 0 10px 0;
+}
+
+.title_section10 p{
+	color: #666666;
+font-family: "Segoe UI Emoji";
+font-size: 21px;
+font-weight: 400;
+padding-bottom: 44px;
+}
+
+.items{
+	width: 370px;
+height: 470px;
+box-shadow: 0 3px 8px rgba(0, 0, 0, 0.07);
+background-color: #ffffff;
+margin-bottom: 101px;
+}
+
+.title-items{
+	padding-top: 33px;
+	padding-left: 38px;
+	color: #002e5b;
+font-family: Montserrat;
+}
+
+.title-items h2{
+ 	font-size: 16px;
+font-weight: 700; text-transform: uppercase;
+}
+
+.title-items i{
+	padding-right: 26px;
+	font-size: 16px;
+}
+.title-items span{
+	color: #002e5b;
+font-family: "Segoe UI Emoji";
+font-size: 15px;
+font-weight: 400;
+
+}
+
+.info-icons{
+	display:flex;
+}
+
+.info-icons-one{
+	padding-top:26px;
+	display: flex;
+}
+
+.info{
+	padding-bottom: 17px;
+}
+
+.icons{
+	text-align: center;
+}
+
+.two{
+	    margin-left: -2px;
+}
+
+.one{
+	margin-left: 1px;
+}
+
+.meseng{
+	margin-left: -3px;
+}
+
+.item-section10-a{
+	display: flex;
+}
+
+.item_section10{
+	margin-right: 30px;
+	position:relative;
+}
+
+.marker{
+	background-image: url(../img/metka.png);
+	z-index: 1000;
+	position:absolute;
+	/* Style for "Map." */
+width: 75px;
+height: 79px;
+top:15%;
+left:40%;
+}
+
+footer{
+	height: 81px;
+background-color: #002e5b;
+}
+
+.footer_title{
+	height: 81px;
+	display: flex;
+	justify-content: space-between;
+	align-items:center;
+	font-size: 17px;
+}
+
+.footer_title h5{
+	color: #ffffff;
+font-family: Montserrat;
+font-weight: 400;
+}
+
+.footer_title h5 a{
+	color: #fde52c;
+	text-decoration: none;
+}
+
+.icon_footer a i{
+	color: #fbfbfb;
+	padding-left:15px;
+}

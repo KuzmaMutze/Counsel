@@ -1,0 +1,36 @@
+.section6{
+	height: 359px;
+background-color: #002e5b;
+}
+
+.section6_title{
+	height: 359px;
+	display:flex;
+	justify-content:space-around;
+	align-items:center;
+}
+
+.item_section6{
+	text-align:center;
+}
+
+.item_section6 span{
+	color: #ffffff;
+font-family: Montserrat;
+font-size: 48px;
+font-weight: 400;
+text-transform: uppercase;
+letter-spacing: 12px;
+
+}
+
+.item_section6 p{
+	color: #ffffff;
+font-family: "Segoe UI Emoji";
+font-size: 14px;
+font-weight: 400;
+text-transform: uppercase;
+/* Text style for "Coffee cup" */
+letter-spacing: 2.8px;
+padding-top: 15px;
+}
